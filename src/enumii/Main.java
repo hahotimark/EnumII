@@ -24,6 +24,6 @@ public class Main {
          */
 
        CharCounter ch = new CharCounter();
-       ch.Count("rollercoaster");
+       ch.Count("Rollercoaster");
     }
 }

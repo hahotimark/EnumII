@@ -2,9 +2,9 @@ package enumii;
 
 public class BlogPost {
 
- String txt;
- Category ct;
- Author aut;
+ private String txt;
+ private Category ct;
+ private Author aut;
 
     public void setContent(String text){
 
